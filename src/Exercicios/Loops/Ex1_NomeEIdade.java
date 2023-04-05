@@ -32,6 +32,6 @@ public class Ex1_NomeEIdade {
 
             System.out.println("continua");
 
+        }
     }
-
 }
